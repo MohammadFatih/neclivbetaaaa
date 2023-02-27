@@ -1,4 +1,4 @@
-package com.example.necliv_beta
+package com.example.necliv_bet
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
